@@ -5,4 +5,8 @@ public class Main {
 		System.out.println("hello git");
 	}
 	
+	
+	public void sayHello(){
+		System.out.println("say hello ");
+	}
 }
